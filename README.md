@@ -18,7 +18,6 @@ Our goals are to convert untidy data into appropriate formats to analyze, and an
 <li>How does the average price of an Airbnb listing, per month, compare to the private rental market? </li>
 <li>How many adverts are for private rooms? </li>
 <li>How do Airbnb listing prices compare across the five NYC boroughs?</li>
-</ul>
 ## 2. Cleaning the price column
 <p>Now the <code>DataFrames</code> have been loaded, the first step is to calculate the average price per listing by <code>room_type</code>. </p>
 <p>You may have noticed that the <code>price</code> column in the <code>prices</code> DataFrame currently states each value as a string with the currency (dollars) following, i.e.,</p>
