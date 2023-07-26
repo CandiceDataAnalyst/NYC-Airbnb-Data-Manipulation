@@ -1,5 +1,7 @@
 ## 1. Importing the Data
-<img src="https://assets.datacamp.com/production/project_1230/img/nyc.jpg" alt="New York City skyline" width="600px">
+![nyc](https://github.com/WuCandice/NYC-Airbnb-Data-Analysis/assets/127648422/77270e89-fae0-4610-9dc4-9bdc552299b9)
+
+
 <br>
 Welcome to New York City (NYC), one of the most-visited cities in the world. 
 As a result, there are many <a href="https://www.airbnb.com/"><em>Airbnb</em></a> listings to meet the high demand for temporary lodging for anywhere between a few nights to many months. 
